@@ -9,7 +9,7 @@ environment:
 dependencies:
   intl: ">=0.17.0 <0.19.0"
   cookie_jar: ^4.0.1
-  dio: "^5.0.0"
+  dio: ^5.0.0
   dio_cookie_manager: ^3.0.0
   twitter_openapi_dart_generated: ^0.0.14
   collection: ">=1.15.0 <2.0.0"
